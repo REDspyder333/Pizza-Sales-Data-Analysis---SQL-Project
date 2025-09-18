@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Data Analysis Using SQL  
 
 ##  Project Overview  
-This project demonstrates how **SQL** can be used to analyze business data and extract meaningful insights. Using a pizza sales dataset, I wrote and executed **11 SQL queries** ranging from easy to advanced, leveraging key SQL concepts such as **joins, subqueries, aggregations, and filtering**.  
+This project demonstrates how **SQL** can be used to analyze business data and extract meaningful insights. Using a pizza sales dataset, I wrote and executed **10 SQL queries** ranging from easy to advanced, leveraging key SQL concepts such as **joins, subqueries, aggregations, and filtering**.  
 
 The goal of this project is to showcase practical data analysis skills that help in answering important business questions like:  
 - What are the peak sales hours?  
